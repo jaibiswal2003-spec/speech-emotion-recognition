@@ -106,9 +106,9 @@ This will open a local web app in your browser.
 ---
 
 ## 🧑‍💻 Author
-**Lakshay Jain**  
+**JAIPRAKASH**
 Full Stack & AI Developer  
-[GitHub](https://github.com/LakshayJ17)
+[GitHub](https://github.com/jaibiswal2003)
 
 ---
 

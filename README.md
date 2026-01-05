@@ -29,7 +29,7 @@ This project detects human emotions (like **happy**, **sad**, **angry**, etc.) f
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/LakshayJ17/speech-emotion-recognition.git
+git clone https://github.com/jaibiswal2003-spec/speech-emotion-recognition.git
 cd speech-emotion-recognition
 ```
 
